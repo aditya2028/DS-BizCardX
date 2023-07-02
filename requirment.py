@@ -1,6 +1,6 @@
 streamlit
 pymysql
-easyocr
+pip install easyocr
 numpy
 Pillow==8.4.0
 spacy>=3.0.0,<4.0.0
